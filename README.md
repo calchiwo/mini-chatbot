@@ -13,7 +13,7 @@ I wrote and tested the entire project on my phone using Pydroid 3.
 • Python 3  
 • tkinter (included by default)
 
-How to Run
+## How to Run
 
 To use this project on your computer or phone, follow these steps.
 
