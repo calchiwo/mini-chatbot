@@ -24,6 +24,7 @@ Download the project by cloning it with Git.
 ```bash
 git clone https://github.com/calchiwo/mini-chatbot.git
 
+```
 2. Open the project folder
 
 Move into the cloned directory.
@@ -31,6 +32,7 @@ Move into the cloned directory.
 ```bash
 cd mini-chatbot
 
+```
 3. Run the chatbot
 
 Start the Python GUI.
@@ -38,5 +40,6 @@ Start the Python GUI.
 ```bash
 python chatbot.py
 
+```
 The chatbot window will open,
 You can type messages and see the bot respond using simple rule based logic.
